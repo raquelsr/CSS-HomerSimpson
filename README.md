@@ -1,6 +1,7 @@
 # CSS-HomerSimpson
 
 Draw a Homer Simpson only with circles in CSS.
+
 Based on tutorials:
 
 * https://codepen.io/alvaromontoro/pen/JxMPqa
